@@ -1,0 +1,43 @@
+﻿body {
+    margin: 0;
+}
+button {
+    color: white;
+    background-color: red;
+    float: left;
+    text-align: center;
+    vertical-align: middle;
+    width: 200px;
+    height: 40px;
+}
+.block {
+    width: 600px;
+    margin: 0 auto;
+}
+.blue {
+    background-color: blue;
+    width: 300px;
+    height: 400px;
+    margin: 0 auto;
+    float:left;
+    
+}
+.green {
+    background-color: green;
+    width: 300px;
+    height: 400px;
+    margin: 0 auto;
+    float:right;
+}
+.cat {
+    width: 270px;
+    height: 270px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.dog {
+    width: 270px;
+    height: 270px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
